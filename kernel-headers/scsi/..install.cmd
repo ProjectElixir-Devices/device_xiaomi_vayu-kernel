@@ -1,0 +1,1 @@
+cmd_/home/hirero/head/include/scsi/.install := /bin/bash scripts/headers_install.sh /home/hirero/head/include/scsi ./include/uapi/scsi cxlflash_ioctl.h scsi_bsg_fc.h scsi_ioctl.h scsi_netlink.h scsi_netlink_fc.h sg.h; /bin/bash scripts/headers_install.sh /home/hirero/head/include/scsi ./include/generated/uapi/scsi ; touch /home/hirero/head/include/scsi/.install

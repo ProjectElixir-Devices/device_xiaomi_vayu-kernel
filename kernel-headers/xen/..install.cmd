@@ -1,0 +1,1 @@
+cmd_/home/hirero/head/include/xen/.install := /bin/bash scripts/headers_install.sh /home/hirero/head/include/xen ./include/uapi/xen evtchn.h gntalloc.h gntdev.h privcmd.h; /bin/bash scripts/headers_install.sh /home/hirero/head/include/xen ./include/generated/uapi/xen ; touch /home/hirero/head/include/xen/.install

@@ -1,0 +1,1 @@
+cmd_/home/hirero/head/include/linux/wimax/.install := /bin/bash scripts/headers_install.sh /home/hirero/head/include/linux/wimax ./include/uapi/linux/wimax i2400m.h; /bin/bash scripts/headers_install.sh /home/hirero/head/include/linux/wimax ./include/generated/uapi/linux/wimax ; touch /home/hirero/head/include/linux/wimax/.install

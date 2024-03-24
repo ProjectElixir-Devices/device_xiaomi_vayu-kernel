@@ -1,0 +1,1 @@
+cmd_/home/hirero/head/include/mtd/.install := /bin/bash scripts/headers_install.sh /home/hirero/head/include/mtd ./include/uapi/mtd inftl-user.h mtd-abi.h mtd-user.h nftl-user.h ubi-user.h; /bin/bash scripts/headers_install.sh /home/hirero/head/include/mtd ./include/generated/uapi/mtd ; touch /home/hirero/head/include/mtd/.install
